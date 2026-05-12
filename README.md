@@ -2,8 +2,8 @@
 
 **`Desenvolvedora Front-end`**
 
-#### Sou estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em Informática para Internet. Tenho experiência prática em projetos acadêmicos, atuando no desenvolvimento, na organização visual e na definição de fluxos. 
-#### Possuo conhecimentos em lógica de programação, redes de computadores e linguagens como C, JavaScript e PHP, além de estar em constante aprendizado em Python.
+#### Sou estudante de Design Gráfico, com formação técnica em Informática para Internet. Tenho experiência prática em projetos acadêmicos, atuando no desenvolvimento, na organização visual e na definição de fluxos. 
+#### Possuo conhecimentos em Design UI/UX, Product Design, HTML, CSS e JS, além de estar em constante aprendizado com as tendências do mercado.
 #### No meu TCC, fui responsável pelo desenvolvimento e interface de uma plataforma social, além de apresentá-lo na Rio Innovation Week. 
 ---
 
