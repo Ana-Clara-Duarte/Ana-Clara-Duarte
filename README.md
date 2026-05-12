@@ -1,6 +1,6 @@
 ## 👾 Olá, eu sou Ana Clara
 
-**`Desenvolvedora Front-end`**
+**`Designer UI/UX`** **`Desenvolvedora Front-end`**
 
 #### Sou estudante de Design Gráfico, com formação técnica em Informática para Internet. Tenho experiência prática em projetos acadêmicos, atuando no desenvolvimento, na organização visual e na definição de fluxos. 
 #### Possuo conhecimentos em Design UI/UX, Product Design, HTML, CSS e JS, além de estar em constante aprendizado com as tendências do mercado.
